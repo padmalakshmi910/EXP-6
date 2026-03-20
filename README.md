@@ -33,3 +33,4 @@ PRECAUTION: -
 ![alt text](<Screenshot 2026-03-20 210125.png>)
 
 RESULT: - LVDT was studied well and graph of displacement was linear for a particular range.
+
